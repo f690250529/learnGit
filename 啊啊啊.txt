@@ -1,3 +1,4 @@
 hello world
 next line
 master wangpeng say
+add merge
